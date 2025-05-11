@@ -1,14 +1,27 @@
-**print 'hello wrld'**
-𝚆𝚎𝚕𝚕 𝚒𝚍𝚔,𝚓𝚞𝚜𝚝 𝚘𝚏 𝚓𝚞𝚗𝚒𝚘𝚛 𝚙𝚎𝚗𝚝𝚎𝚜𝚝𝚎𝚛 𝚊𝚗𝚍  𝚎𝚝𝚑𝚒𝚌𝚊𝚕 𝚑𝚊𝚌𝚔𝚎𝚛𝚜😮‍💨
+<h1 align="center">Hi 👋, I'm RAIHAN ROFIQ .Z.</h1>
+<h3 align="center">I am a pentester and also a frontend developer</h3>
 
-𝙽𝚘𝚝𝚎: 𝚜𝚘𝚛𝚛𝚢, 𝚑𝚎𝚛𝚎 𝙸 𝚘𝚗𝚕𝚢 𝚙𝚘𝚜𝚝 𝚖𝚢 𝚍𝚊𝚒𝚕𝚢 𝚊𝚌𝚝𝚒𝚟𝚒𝚝𝚒𝚎𝚜 𝚛𝚊𝚗𝚍𝚘𝚖𝚕𝚢.💤
+- 🔭 I’m currently working on [ghost tracker](https://geolinktrack-brxwbr94b-rootmantaps-projects.vercel.app)
 
-:::𝐎𝐖𝐍𝐄𝐑:::
-rootmantap | ehan
+- 🌱 I’m currently learning **full stack developer**
 
-:::𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘:::
-./ehan@rootmantap.my.id
-./https://rootmantap.github.io/rootmantap/
-./t.me/Ox02k
+- 👯 I’m looking to collaborate on **SeraphyneProjects**
 
--𝚜𝚘𝚛𝚛𝚢 𝚛𝚎𝚙𝚘 𝚐𝚒𝚝𝚑𝚞𝚋 𝚊𝚌𝚊𝚔-𝚊𝚌𝚊𝚔𝚊𝚗 𝚌𝚞𝚖𝚊𝚗 𝚋𝚞𝚊𝚝 𝚙𝚊𝚓𝚊𝚗𝚐𝚊𝚗 𝚍𝚘𝚊𝚗𝚐 𝚠𝚔𝚠𝚔-
+- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+
+- 📝 I regularly write articles on [coming soon](coming soon)
+
+- 💬 Ask me about **bugbounty,pentester and ethical hackers**
+
+- 📫 How to reach me **ehan@rootmantap.my.id**
+
+- ⚡ Fun fact **I'm always happy and sometimes I forget my limits**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/ehaxn._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ehaxn._" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
